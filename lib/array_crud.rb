@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-
+  numbers = [0,1,2,3]
   numbers << 4
 end
 
